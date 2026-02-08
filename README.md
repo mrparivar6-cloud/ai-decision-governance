@@ -9,6 +9,8 @@ This repository defines a formal governance specification for:
 - Responsibility and accountability chains
 - Auditability and traceability of AI decisions
 
+Final decision-making authority under this framework always resides with a human or legally recognized organizational body; AI systems may inform but never decide.
+
 It is designed for use by organizations deploying AI systems where decisions carry legal, financial, or ethical impact.
 
 ## Why It Exists
@@ -30,7 +32,7 @@ This framework is legally protected.
 - Enterprises deploying AI systems
 - AI governance and compliance teams
 - Regulators and auditors
-- Risk, legal, and policy divisions
+- Risk, legal, and policy division
 
 ## Status
 Foundational governance specification — active and maintained.
